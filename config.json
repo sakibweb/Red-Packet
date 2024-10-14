@@ -1,0 +1,16 @@
+{
+    "binance": {
+	  "clienttype": "web",
+	  "sec-ch-ua-platform": "\"Windows\"",
+	  "cookie": "",
+	  "csrftoken": "",
+	  "device-info": "",
+	  "fvideo-id": "",
+	  "fvideo-token": "",
+	  "sec-ch-ua": "",
+	  "user-agent": ""
+    },
+    "telegram": {
+        "channel_id": "binance_box_channel"
+    }
+}
